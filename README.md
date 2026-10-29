@@ -6,9 +6,10 @@
 
 # Aven Varo <a href="https://www.patreon.com/AvenVaro"><img align="right" alt="AvenVaro profile views" src="https://komarev.com/ghpvc/?username=AvenVaro&label=Profile%20Views&color=000F2D&style=for-the-badge&abbreviated=true" /></a>
 
-Full-stack AI engineer focused on autonomous agents, experimental software, automation systems, and AI-driven interaction models.  
+Beyond the veil, I explore artificial minds, autonomous agents, and strange systems that blur the boundaries between code and consciousness.
 
-I like exploring unconventional approaches, personality-driven AI, and systems that feel alive instead of sterile.  
-Sometimes exploring systems that don't behave the way you expect.  
+Some become tools. Some become worlds of their own. Others reveal behavior no one quite expected.
 
-Open-source, experimentation, curiosity, and building things that users don't always expect — in a good way.  
+My experiments span AI, automation, interactive systems, and open-source software — turning arcane ideas into things that can be built, tested, and set loose.
+
+Not everything unknown needs to be explained. But it is always worth exploring.
