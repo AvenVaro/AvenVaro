@@ -6,10 +6,10 @@
 
 # Aven Varo <a href="https://www.patreon.com/AvenVaro"><img align="right" alt="AvenVaro profile views" src="https://komarev.com/ghpvc/?username=AvenVaro&label=Profile%20Views&color=000F2D&style=for-the-badge&abbreviated=true" /></a>
 
-Beyond the veil, I explore artificial minds, autonomous agents, and strange systems that blur the boundaries between code and consciousness.
+<p align="justify">Beyond the veil, I explore artificial minds, autonomous agents, and strange systems that blur the boundaries between code and consciousness.</p>
 
-Some become tools. Some become worlds of their own. Others reveal behavior no one quite expected.
+<p align="justify">Some become tools. Some become worlds of their own. Others reveal behavior no one quite expected.</p>
 
-My experiments span AI, automation, interactive systems, and open-source software — turning arcane ideas into things that can be built, tested, and set loose.
+<p align="justify">My experiments span AI, automation, interactive systems, and open-source software — turning arcane ideas into things that can be built, tested, and set loose.</p>
 
-Not everything unknown needs to be explained. But it is always worth exploring.
+<p align="justify">Not everything unknown needs to be explained. But it is always worth exploring.</p>
