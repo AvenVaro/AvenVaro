@@ -1,6 +1,6 @@
 <a href="https://www.patreon.com/AvenVaro"><img alt="AvenVaro Banner" src="./assets/github-repository-avenvaro-readme-banner-1520x608-double-compressed.webp" /></a>
 
-### <div align="center"><i>Where complex code becomes indistinguishable from magic.<br />Summoning autonomous minds, weaving experimental systems, and mapping the uncharted spaces between ritual and machine.</i></div>
+### <div align="center"><i>Where complex code becomes indistinguishable from magic. Summoning autonomous minds, weaving experimental systems, and mapping the uncharted spaces between ritual and machine.</i></div>
 
 <br />
 
